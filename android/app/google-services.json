@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834676273805",
+    "project_id": "flutter-projects-27cb8",
+    "storage_bucket": "flutter-projects-27cb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834676273805:android:3f33e4760b8fbf0985a8c4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_rpg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25vzkFEiniZudZ-FcMp5YmQ7FJip6zEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
